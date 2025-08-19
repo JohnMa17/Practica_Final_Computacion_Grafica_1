@@ -1,0 +1,10 @@
+John;975
+Wally;920
+John;905
+John;865
+John;785
+John;740
+John;740
+John;715
+Que BO;620
+PLAYER;590
